@@ -1,0 +1,17 @@
+div{
+    margin: 50px;
+    padding: 50px;
+    border: 2px solid black;
+}
+.first-div{
+    background-color: blue;
+}
+.second-div{
+    background-color: yellow;
+}
+.third-div{
+    background-color: green;
+}
+.fourth-div{
+    background-color: pink;
+}
