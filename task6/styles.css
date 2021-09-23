@@ -1,10 +1,13 @@
-div{
-    margin: 50px;
-    padding: 50px;
+.save{
+    margin: 25px;
+    padding: 25px;
     border: 2px solid black;
 }
 .first-div{
     background-color: blue;
+    margin: 50px;
+    padding: 25px;
+    border: 2px solid black;
 }
 .second-div{
     background-color: yellow;
